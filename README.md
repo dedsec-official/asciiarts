@@ -1,5 +1,6 @@
 # asciiarts
-![By asciimator](https://github.com/dedsec-official/asciiarts/raw/master/d3ds3c.gif) ```
+![By asciimator](https://github.com/dedsec-official/asciiarts/raw/master/d3ds3c.gif)
+```
         |
     pN▒g▒p▒g▒▒g▒ge
    ▒▒▒▒▒▒▒▓▓▒▓▒▓▒
@@ -20,7 +21,7 @@
   ˜ ▒0▒▒▒p ▒g▒
     @▓▒▒▒▒▒  ▒▒▓
      M0▓▓  ▓▓^
-     ```
+```
 ```
           _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
          _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
